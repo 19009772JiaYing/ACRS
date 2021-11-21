@@ -1,0 +1,104 @@
+com/google/android/gms/samples/vision/ocrreader/AuthorizedDisplay.java
+ com.google.android.gms.samples.vision.ocrreader.AuthorizedDisplay
+ com.google.android.gms.samples.vision.ocrreader.AuthorizedDisplay$1
+com/google/android/gms/samples/vision/ocrreader/MemAdapter.java
+ com.google.android.gms.samples.vision.ocrreader.MemAdapter
+ com.google.android.gms.samples.vision.ocrreader.MemAdapter$1
+ com.google.android.gms.samples.vision.ocrreader.MemAdapter$1$1
+ com.google.android.gms.samples.vision.ocrreader.MemAdapter$MemViewHolder
+com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSourcePreview.java
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview$1
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSourcePreview$SurfaceCallback
+com/google/android/gms/samples/vision/ocrreader/UnauthorizedDisplay.java
+ com.google.android.gms.samples.vision.ocrreader.UnauthorizedDisplay
+ com.google.android.gms.samples.vision.ocrreader.UnauthorizedDisplay$1
+com/google/android/gms/samples/vision/ocrreader/OcrDetectorProcessor.java
+ com.google.android.gms.samples.vision.ocrreader.OcrDetectorProcessor
+com/google/android/gms/samples/vision/ocrreader/SecurityHome.java
+ com.google.android.gms.samples.vision.ocrreader.SecurityHome
+com/google/android/gms/samples/vision/ocrreader/AddMember.java
+ com.google.android.gms.samples.vision.ocrreader.AddMember
+ com.google.android.gms.samples.vision.ocrreader.AddMember$1
+ com.google.android.gms.samples.vision.ocrreader.AddMember$2
+ com.google.android.gms.samples.vision.ocrreader.AddMember$3
+ com.google.android.gms.samples.vision.ocrreader.AddMember$4
+com/google/android/gms/samples/vision/ocrreader/ui/camera/CameraSource.java
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$1
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$AutoFocusCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$AutoFocusMoveCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$Builder
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$CameraAutoFocusCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$CameraAutoFocusMoveCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$CameraPreviewCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$FlashMode
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$FocusMode
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$FrameProcessingRunnable
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$PictureCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$PictureDoneCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$PictureStartCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$ShutterCallback
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.CameraSource$SizePair
+com/google/android/gms/samples/vision/ocrreader/Vehicles.java
+ com.google.android.gms.samples.vision.ocrreader.Vehicles
+com/google/android/gms/samples/vision/ocrreader/RegisterOrLogin.java
+ com.google.android.gms.samples.vision.ocrreader.RegisterOrLogin
+com/google/android/gms/samples/vision/ocrreader/VehicleList.java
+ com.google.android.gms.samples.vision.ocrreader.VehicleList
+com/google/android/gms/samples/vision/ocrreader/OcrGraphic.java
+ com.google.android.gms.samples.vision.ocrreader.OcrGraphic
+com/google/android/gms/samples/vision/ocrreader/ui/camera/GraphicOverlay.java
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay
+ com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay$Graphic
+com/google/android/gms/samples/vision/ocrreader/ForgetPW.java
+ com.google.android.gms.samples.vision.ocrreader.ForgetPW
+ com.google.android.gms.samples.vision.ocrreader.ForgetPW$1
+ com.google.android.gms.samples.vision.ocrreader.ForgetPW$1$1
+com/google/android/gms/samples/vision/ocrreader/Admin.java
+ com.google.android.gms.samples.vision.ocrreader.Admin
+com/google/android/gms/samples/vision/ocrreader/AuthorizedLog.java
+ com.google.android.gms.samples.vision.ocrreader.AuthorizedLog
+com/google/android/gms/samples/vision/ocrreader/UnauthorizedLog.java
+ com.google.android.gms.samples.vision.ocrreader.UnauthorizedLog
+com/google/android/gms/samples/vision/ocrreader/Register.java
+ com.google.android.gms.samples.vision.ocrreader.Register
+com/google/android/gms/samples/vision/ocrreader/Update.java
+ com.google.android.gms.samples.vision.ocrreader.Update
+ com.google.android.gms.samples.vision.ocrreader.Update$1
+com/google/android/gms/samples/vision/ocrreader/Members.java
+ com.google.android.gms.samples.vision.ocrreader.Members
+com/google/android/gms/samples/vision/ocrreader/OcrCaptureActivity.java
+ com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity$1
+ com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity$2
+ com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity$CaptureGestureListener
+ com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity$ScaleListener
+com/google/android/gms/samples/vision/ocrreader/ScanActivity.java
+ com.google.android.gms.samples.vision.ocrreader.ScanActivity
+com/google/android/gms/samples/vision/ocrreader/LogIn.java
+ com.google.android.gms.samples.vision.ocrreader.LogIn
+ com.google.android.gms.samples.vision.ocrreader.LogIn$1
+ com.google.android.gms.samples.vision.ocrreader.LogIn$1$1
+ com.google.android.gms.samples.vision.ocrreader.LogIn$1$2
+ com.google.android.gms.samples.vision.ocrreader.LogIn$2
+ com.google.android.gms.samples.vision.ocrreader.LogIn$3
+ com.google.android.gms.samples.vision.ocrreader.LogIn$4
+ com.google.android.gms.samples.vision.ocrreader.LogIn$5
+ com.google.android.gms.samples.vision.ocrreader.LogIn$6
+com/google/android/gms/samples/vision/ocrreader/SplashScreen.java
+ com.google.android.gms.samples.vision.ocrreader.SplashScreen
+ com.google.android.gms.samples.vision.ocrreader.SplashScreen$1
+com/google/android/gms/samples/vision/ocrreader/memberList.java
+ com.google.android.gms.samples.vision.ocrreader.memberList
+ com.google.android.gms.samples.vision.ocrreader.memberList$1
+com/google/android/gms/samples/vision/ocrreader/CapturedPage.java
+ com.google.android.gms.samples.vision.ocrreader.CapturedPage
+ com.google.android.gms.samples.vision.ocrreader.CapturedPage$1
+com/google/android/gms/samples/vision/ocrreader/BuildConfig.java
+ com.google.android.gms.samples.vision.ocrreader.BuildConfig
+com/google/android/gms/samples/vision/ocrreader/AddVehicle.java
+ com.google.android.gms.samples.vision.ocrreader.AddVehicle
+ com.google.android.gms.samples.vision.ocrreader.AddVehicle$1
+ com.google.android.gms.samples.vision.ocrreader.AddVehicle$2
+ com.google.android.gms.samples.vision.ocrreader.AddVehicle$3

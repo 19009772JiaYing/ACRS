@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369632379022",
+    "firebase_url": "https://acrs---fyp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "acrs---fyp",
+    "storage_bucket": "acrs---fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369632379022:android:176617fa3987bee4cf89df",
+        "android_client_info": {
+          "package_name": "com.google.android.gms.samples.vision.ocrreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369632379022-cvm7hi58j90ivopl4a17k1ib8e6cl2c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRNJE3LiHo5bymlKC_XcWeOZyVm1kGJRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369632379022-cvm7hi58j90ivopl4a17k1ib8e6cl2c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
